@@ -71,7 +71,6 @@ python sem2_chatbot_gui.py
 # 🖼 Screenshots
 
 ### 🟦 Chatbot GUI  
-(Upload your screenshot here)
 
 ![GUI Interface](media/gui_interface.png)
 
