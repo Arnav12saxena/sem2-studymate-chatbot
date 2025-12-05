@@ -151,7 +151,7 @@ If similarity is low (< 0.5), a fallback response is shown.
 
 ---
 
-# 👨‍💻 Author
+# 📬 Contact
 
 **Arnav Saxena**  
 AI/ML • Computer Vision • XR/VR • Robotics  
